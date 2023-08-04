@@ -1,0 +1,20 @@
+body {
+    background-color: #2f7994;
+}
+
+#number-one {
+    color: rgb(255, 119, 0); 
+}
+
+/* doesn't work because is in a tag that has two IDs */
+#number-2 {
+    font-size: 20px;
+}
+
+.first-class {
+    color:blanchedalmond; 
+}
+
+.second-class {
+    color:black;
+}
